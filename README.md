@@ -5,7 +5,8 @@ Neural Network Implementation and Evaluation for decision over automatic investm
 Developed and evaluated a neural network for classification tasks using Python and various machine learning techniques.
 ## Data Loading and Preprocessing
 Loaded .npy files, handled missing values, reshaped data and applied one-hot encoding.
-## Neural Network Development:Implemented a neural network with various activation (ReLU, ELU, Leaky ReLU) and cost (cross-entropy) functions. Designed feedforward and backpropagation methods.
+## Neural Network Development
+Implemented a neural network with various activation (ReLU, ELU, Leaky ReLU) and cost (cross-entropy) functions. Designed feedforward and backpropagation methods.
 ## Model Training and Optimization
 Trained the neural network using stochastic gradient descent (SGD) with mini-batch processing and L2 regularization.Conducted hyperparameter tuning to find the optimal learning rate and regularization parameter. Monitored training progress by tracking training and validation accuracy and cost at each epoch.
 ## Evaluation and Validation
